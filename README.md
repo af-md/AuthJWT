@@ -34,16 +34,10 @@ npx nodeman
 
 import postman json test data from postman test folder into <a href="https://www.getpostman.com/">Postman</a> application 
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [Express](https://expressjs.com/) - Server Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@Afzal97](https://github.com/kylelobo) - Idea & Initial work
+- [@Afzal97](https://github.com/afzal97) - Idea & Initial work
